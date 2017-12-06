@@ -72,6 +72,10 @@ nav ul li{
   color: white;
 }
 
+nav a{
+  color: white;
+}
+
 #subrayado{
   text-decoration: none;
 }
