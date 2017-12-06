@@ -228,18 +228,18 @@ footer a img{
   header{
     display: flex;
     flex-direction: column;
-    padding: 6%;
+    padding: 5%;
   }
 
   .contenedorh{
-    width: 80%;
-    margin: 0 auto;
+    width: 70%;
+    margin: 2% auto;
     text-align: center;
   }
 
   header h1{
     margin: 0%;
-    font-size: 1.4em;
+    font-size: 8vw;
   }
 
   nav ul{
@@ -247,7 +247,7 @@ footer a img{
   }
 
   nav ul li{
-    font-size: 0.9em;
+    font-size: 5vw;
     width: 33.33%;
   }
 
@@ -257,7 +257,7 @@ footer a img{
   }
 
   #central figure{
-    margin: 10px;
+    margin: 5%;
   }
 
   #segundaria{
@@ -280,9 +280,14 @@ footer a img{
     width: 100%;
   }
 
+  figcaption{
+    font-size: 5vh;
+  }
+
   footer{
     display: flex;
     flex-direction: column;
+    font-size: 4vw;
   }
 
   .contenedorf{
